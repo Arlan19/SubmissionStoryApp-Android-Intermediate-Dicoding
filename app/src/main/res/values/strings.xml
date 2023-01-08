@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SubmissionStoryApp</string>
+    <string name="input_email" translatable="false">example: user@gmail.com</string>
+    <string name="wrong_email">email must be a valid email</string>
+    <string name="input_password">input your password</string>
+    <string name="wrong_password">password must be at least 6 characters long</string>
+    <string name="input_name">input your name</string>
+    <string name="message_login_page">tell your experience here</string>
+    <string name="title_login_page">Story App</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="story_app">Story App</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="not_registered">not registered?</string>
+    <string name="username">Username</string>
+    <string name="already_have_an_account">already have an account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="registration">Registration</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s,</string>
+    <string name="user_name">Your name</string>
+    <string name="data_not_found">data not found</string>
+    <string name="connection_failed">connection failed</string>
+    <string name="refresh">refresh</string>
+    <string name="upload_story">upload story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="add_photo">add photo</string>
+    <string name="change_language">Change language</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirm">Do you want to Logout ?</string>
+    <string name="logout_accept">yes</string>
+    <string name="logout_denied">no</string>
+    <string name="logout_status_accept">Your Account is Logout</string>
+    <string name="logout_status_denied">Logout cancelled</string>
+    <string name="user_photo">user photo</string>
+
+</resources>

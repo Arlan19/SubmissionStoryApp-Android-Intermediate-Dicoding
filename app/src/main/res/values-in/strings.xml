@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SubmissionStoryApp</string>
+    <string name="input_email" translatable="false">example: user@gmail.com</string>
+    <string name="wrong_email">pastikan email dalam format yang benar</string>
+    <string name="input_password">masukan kata sandi</string>
+    <string name="wrong_password">kata sandi harus terdiri dari minimal 6 karakter</string>
+    <string name="input_name">masukan namamu</string>
+    <string name="message_login_page">ceritakan pengalamanmu disini</string>
+    <string name="title_login_page">Story App</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="story_app">Story App</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="not_registered">belum punya akun?</string>
+    <string name="username">Username</string>
+    <string name="already_have_an_account">sudah punya akun?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="registration">Registration</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s,</string>
+    <string name="user_name">Your name</string>
+    <string name="data_not_found">data tidak ditemukan</string>
+    <string name="connection_failed">koneksi bermasalah</string>
+    <string name="refresh">segarkan</string>
+    <string name="upload_story">upload story</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="add_photo">tambahkan foto</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirm">Apakah kamu ingin Logout?</string>
+    <string name="logout_accept">ya</string>
+    <string name="logout_denied">tidak</string>
+    <string name="logout_status_accept">Akunmu berhasil Logout</string>
+    <string name="logout_status_denied">Logout dibatalkan</string>
+    <string name="user_photo">user photo</string>
+</resources>
